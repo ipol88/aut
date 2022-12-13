@@ -1,0 +1,17 @@
+BACA SAYA !!
+
+Script ini akan meredirect traffic sesuai negara yang dimasukkan. 
+
+Cara Penggunaan
+
+1. ubah alamat link offer di file config.php
+2. UPLOAD script di Hosting yang support PHP 
+
+Setelah file di upload, tinggal diakses di browser. bisa di shorten dulu pakai shortener 
+atau dimasukkan ke link generator.
+
+Semoga Bermanfaat
+
+
+AutoFOOLS
+2021
