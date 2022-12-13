@@ -5,6 +5,6 @@
 
 $linkOffer = array( 
     "ALL" => "https://www.detik.com", // Yang ini jangan dihapus, sebagai default
-    "US" => "https://www.cnn.com",
+    "US" => "https://www.ar88new.com/",
     "SG" => "https://www.mtvasia.com",
 );
